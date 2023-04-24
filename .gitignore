@@ -1,0 +1,7 @@
+CMakeLists.txt
+cmake-build-debug
+.idea
+output.txt
+input.txt
+tempCodeRunnerFile.cpp
+error.txt
